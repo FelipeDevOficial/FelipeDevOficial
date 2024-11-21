@@ -27,8 +27,3 @@
  
 </div>
 
-![snake gif](https://github.com/FelipeDevOficial/FelipeDevOficial/blob/output/github-contribution-grid-snake-dark.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=FelipeDevOficial&repo=FelipeDevOficial&theme=react)](https://github.com/FelipeDevOficial/FelipeDevOficial)
-
-
