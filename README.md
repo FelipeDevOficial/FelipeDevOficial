@@ -1,9 +1,11 @@
 ## Oiii! Satisfação em te ver por aqui😃😁
 <div>
   <a href="https://github.com/FelipeDevOficial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDevOficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDevOficial&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDevOficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDevOficial&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
+## 🛠️ Tecnologias que uso
 <div style="display: inline_block"><br>
   <img align="right" alt="Felipe-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
   <img align="center" alt="Felipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -17,7 +19,7 @@
   <img align="right" alt="Felipe-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
-  ##
+  
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -30,4 +32,8 @@
  
 </div>
 
-
+<div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
