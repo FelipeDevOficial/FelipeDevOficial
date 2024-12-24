@@ -1,4 +1,4 @@
-## Oiii! Satisfação em te ver por aqui😃😁
+## Boa! Satisfação em te ver por aqui😃😁
 <div>
   <a href="https://github.com/FelipeDevOficial">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDevOficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
