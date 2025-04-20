@@ -11,9 +11,7 @@
 
 <img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-Eu sou a **Felipe**, desenvolvedor entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Ciência da computação** e aplico meus conhecimentos em projetos Full Stack que unem teoria, prática e propósito.
-
-Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
+Eu sou o **Felipe**, desenvolvedor e entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Ciência da computação** e aplico meus conhecimentos em projetos que unem teoria, prática e propósito.
 
   
  ## 🛠️ Tecnologias que uso
@@ -50,20 +48,3 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeDevOficial/FelipeDevOficial/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FelipeDevOficial/FelipeDevOficial/output/pacman-contribution-graph.svg">
 </picture>
-
-###
----
-
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
-
-> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🧡  
-> — **Naruto Uzumaki**
-<br>
-
----
-
-<div align="center">
-  <img align="middle" src="https://github.com/user-attachments/assets/44296890-aa50-4ab3-9f9c-fbf4dd8ed8bc" width="350" alt="Imagem em desenho de uma mulher e um gato em cima de um notebook" />
-</div>
-<br>
-<p align="center"><i>Obrigado pela visita! ❤️</i></p>
